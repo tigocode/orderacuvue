@@ -1,0 +1,7 @@
+.esfericas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  gap: 15px;
+}
+
